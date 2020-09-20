@@ -1,2 +1,2 @@
-# Seaborn_Basics
+# Seaborn Basics
 Reuploading old notebooks.
