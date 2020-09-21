@@ -1,3 +1,3 @@
 # Seaborn Basics
 
-Reuploading old notebooks.
+Reuploading old notebooks
